@@ -50,7 +50,7 @@ from sklearn.model_selection import train_test_split
 from sklearn import datasets
 from sklearn.neighbors import KNeighborsClassifier
 from streamlit.elements.image import image_to_url
-from PIL import Image
+#from PIL import Image
 import matplotlib.pyplot as plt
 
 
