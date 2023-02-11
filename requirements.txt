@@ -9,7 +9,6 @@ astunparse
 async-timeout
 asyncer
 attrs
-backportszoneinfo
 beautifulsoup
 blinker
 bs
