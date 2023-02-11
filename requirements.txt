@@ -5,5 +5,3 @@ pandas
 matplotlib
 scikit-learn
 PyPDF2
-tqdm
-time
