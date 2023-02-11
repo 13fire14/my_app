@@ -1,7 +1,6 @@
 numpy
 pdfplumber
 streamlit
-re
 pandas
 matplotlib
 scikit-learn
