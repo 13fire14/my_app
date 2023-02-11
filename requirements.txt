@@ -1,8 +1,11 @@
 numpy
-PIL
+pdfplumber
 streamlit
 os
 re
 pandas
 matplotlib
 scikit-learn
+PyPDF2
+tqdm
+time
